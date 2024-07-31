@@ -49,5 +49,5 @@ function startTimer(duration) {
         }
     }, 1000);
 }
-
+console.log('POMOTIMER START');
 startTimer(POMODORO_DURATION);
